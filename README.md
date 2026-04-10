@@ -67,4 +67,6 @@ The app utilizes the `record` package to capture a raw PCM 16-bit audio stream a
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+<<<<<<< HEAD
 Developed with ❤️ by [Lotchan](https://https://github.com/lotchankumar).
+=======
